@@ -4,9 +4,9 @@ Word Game created using Java with MYSQL Database (Wamp/Xamp) where you have to t
 
 ## Features of this Project
 
-Choose Different Difficulty
-Challenge Against Friends
-Leaderboard
+1.Choose Different Difficulty
+2.Challenge Against Friends
+3.Leaderboard
 
 ## How to use:-
 
